@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** Ashley Quiroz 
-**Date:** 09/20/25
+**Name:** [Ashley Quiroz] 
+**Date:** [09/20/25]
 
 ---
 
@@ -18,7 +18,7 @@ All answers can be found in the README.md file
 
 **3. What is a repository and what does it contain?**
 
-[A respository is where your projects you're working on are at]
+[A respository is where you can find the projects that you're working on]
 
 ---
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+[The aspect of AI that I am most excited to learn about this year is ]
 
 ---
 
