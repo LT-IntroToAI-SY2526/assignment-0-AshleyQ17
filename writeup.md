@@ -14,7 +14,7 @@ All answers can be found in the README.md file
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Committing and pushing is the way you can add changes or edits that you have made to your repository in Github. These steps are important because doing so helps your teacher and classmates see the edits you've made, you can share it to the class.]
+[Committing and pushing is adding edits or making changes to your repository in Github. You can commit after making your changes and it saves your changes. After you have committed you can pushto add the changes to your repository. These steps are important to do because doing so will edit your repository so that you can then share it to your teacher and classmates]
 
 **3. What is a repository and what does it contain?**
 
